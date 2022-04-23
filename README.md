@@ -4,7 +4,7 @@
 <a href="mailto:rasheey97@yahoo.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
 </a><br/>
-### About Me 🚀
+About Me 🚀
 💻 I’m a **Full-stack developer** with a bachelor's degree in Computer Science. </br> </br>
 👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
