@@ -1,20 +1,16 @@
 <a href="https://www.linkedin.com/in/rasheed-uthman-234b91a9/">
-  <img align="left" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:rasheey97@yahoo.com">
-  <img align="left" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
-</a>
-
-<br/>
-
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
+</a><br/>
 ### About Me 🚀
 💻 I’m a **Full-stack developer** with a bachelor's degree in Computer Science. </br> </br>
 👨🏼‍💻 I'm also a **technical instructor** and **advisor** who loves providing mentorship. </br></br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! </br></br>
    
  <b><i>I truly believe that technology and software development has the power to change people's lives for the better. 
-    
-<br/>
+    <br/>
 <hr />
 
 <div align="center">
