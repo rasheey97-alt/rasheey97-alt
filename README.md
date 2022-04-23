@@ -1,8 +1,8 @@
 <a href="https://www.linkedin.com/in/rasheed-uthman-234b91a9/">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+  <img align="left" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:rasheey97@yahoo.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
+  <img align="left" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/yahoo.svg" />
 </a>
 
 <br/>
